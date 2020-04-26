@@ -29,3 +29,8 @@ Share the log with your doctor/physician if you are infected/ tested positive. H
 # Digital security: 
 
 Don't change README.md name or contents. No Google location services, No code obfuscation, no cryptography, no chat window, no internet. The log is stored as system file on your platform. The log's storage location and name is randomized.
+
+# Timestamp:
+
+April 26th 2020 Sunday 12:45h UTC 
+Worldwide Confirmed Infections 2,9M Recovered 823K Deaths 203K
