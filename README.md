@@ -14,3 +14,5 @@ Supports iOS 2015-2020
 Supports Windows App 2015-2020
 
 Log the IMEI number of another GSM running this app, if the distance is less then 0,75 meter for 300 seconds.
+
+Share the log with your doctor/physician if you are infected/ tested positive.
