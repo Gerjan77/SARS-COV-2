@@ -72,7 +72,21 @@ Press [Clone or download] in the code section of this repository
 
 Press [Download ZIP]
 
-## Tag commits after you’ve moved past them
+Open the project file
+
+## Compile
+
+Set the startup project to match your smartphone or tablet
+
+Build and Deploy
+
+
+
+
+### Scripts used
+
+
+Tag commits after you’ve moved past them
 
 ```zsh
 # download all
@@ -86,11 +100,13 @@ git log --pretty=oneline
 git push origin v0.0
 ```
 
+Find a file called xamarin.android-10.2.0.100.pkg
 
-Open the project file
-
-## Compile
-
-Set the startup project to match your smartphone or tablet
-
-Build and Deploy
+```zsh
+# list all files in file-list.txt
+sudo find / &> ~/file-list.txt
+# file attributes
+sudo chown $(whoami) ~/file-list.txt
+# search for a substring
+cat ~/file-list.txt | grep -E "(10.2.0.100)"
+```
