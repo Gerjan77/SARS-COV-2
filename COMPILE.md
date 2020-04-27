@@ -26,10 +26,18 @@ else
 fi
 ```
 
+Mono Framework MDK 6.6.0.166 December 10, 2019
+
+- download from https://www.mono-project.com/download/vs/ and install MonoFramework-MDK-6.6.0.166.macos10.xamarin.universal.pkg
+
 Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Service Release 3)
 - download from https://visualstudio.microsoft.com/vs/mac/ April 14, 2020 - April 21, 2020
 - download from https://mac.softpedia.com/get/Developer-Tools/Visual-Studio.shtml April 21, 2020 - April 28, 2020
 - open and move to applications
+
+Xamarin Visual Studio 8.5.3.16 uses these dependencies:
+
+
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
