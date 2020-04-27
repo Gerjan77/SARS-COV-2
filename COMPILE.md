@@ -18,4 +18,4 @@ Open the project file
 
 Set the startup project to match your smartphone or tablet
 
-Compile
+Build and Deploy
