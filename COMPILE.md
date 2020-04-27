@@ -27,7 +27,8 @@ fi
 ```
 
 Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Service Release 3)
-- download from https://mac.softpedia.com/get/Developer-Tools/Visual-Studio.shtml
+- download from https://visualstudio.microsoft.com/vs/mac/ April 14, 2020 - April 21, 2020
+- download from https://mac.softpedia.com/get/Developer-Tools/Visual-Studio.shtml April 21, 2020 - April 28, 2020
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
