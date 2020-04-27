@@ -8,6 +8,8 @@ MacOS 10.15.4 Supplemental Update 19E287 April 8, 2020 (clean install)
 
 Xcode 11.4.1 11E503a April 15, 2020
 
+Command Line Tools for Xcode 11.4.1 April 15, 2020
+
 Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Service Release 3)
 
 Press [Clone or download] in the code section of this repository
