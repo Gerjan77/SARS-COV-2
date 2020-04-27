@@ -1,4 +1,4 @@
-# Timestamp:
+# Timestamp
 
 April 26th 2020 Sunday 12:45h UTC Worldwide Confirmed Infections 2,9M Recovered 823K Deaths 203K
 
