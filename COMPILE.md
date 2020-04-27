@@ -36,6 +36,7 @@ Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Servi
 - download from https://mac.softpedia.com/get/Developer-Tools/Visual-Studio.shtml April 21, 2020 - April 28, 2020
 - open and move to applications
 
+Run Xamarin Visual Studio 8.5.3.16 Visual Studio -> Check for Updates... 
 Xamarin Visual Studio 8.5.3.16 uses these dependencies:
 
 .NET Core SDK 3.1.200
@@ -54,8 +55,9 @@ Xamarin.Android 10.2.0.100
 
 Xamarin.iOS 13.16.0.13
 
-Xamarin.Mac 6.16.0.13
+Xamarin.Mac 6.16.0.13 March 31, 2020
 
+Download them and uncheck all Downloaded updates.
 These are stored by Visual Studio Update in ~/Library/Caches/VisualStudio/8.0/TempDownload/ and should be backed up.
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
