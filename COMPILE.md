@@ -15,9 +15,11 @@ Command Line Tools for Xcode 11.4.1 April 15, 2020
 
 Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Service Release 3)
 
-## Become a Software tester now: Save a restorable image of your harddrive using Clonezilla
+## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
-This prevents issues when performing a downgrade of third-party software.
+You need an external USB drive and a USB pendrive. Install CloneZilla Live on a USB pendrive. Boot your pendrive as UEFI and start CloneZilla Live. Save a restorable image of your harddrive on an external USB drive. 
+
+After a software crash, you can restore this image.
 
 ## Project files
 
