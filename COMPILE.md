@@ -38,7 +38,17 @@ Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Servi
 
 Xamarin Visual Studio 8.5.3.16 uses these dependencies:
 
+.NET Core SDK 3.1.200
+.NET Core Runtime 2.1.16
+Mono Framework MDK 6.8.0.123 Unchecked - Don't install.
+OpenJDK 1.8.0.25
+Visual Studio for Mac 8.5.4.12 Unchecked - Don't install.
+Xamarin Profiler 1.6.13
+Xamarin.Android 10.2.0.100
+Xamarin.iOS 13.16.0.13
+Xamarin.Mac 6.16.0.13
 
+These are stored by Visual Studio Update in ~/Library/Caches/VisualStudio/8.0/TempDownload/ and should be backed up.
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
