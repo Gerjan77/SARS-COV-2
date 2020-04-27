@@ -65,7 +65,9 @@ sudo cp -R ~/Downloads/microsoft_dist_openjdk_1.8.0.25 ~/Library/Developer/Xamar
 ls ~/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
 ```
 
-
+Point the IDE to the new JDK:
+Click Tools > SDK Manager > Locations and change the Java SDK (JDK) Location to the full path of the OpenJDK installation. In the following example, this path is set to ~/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
+https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/openjdk-images/vsm.png
 
 Xamarin Profiler 1.6.13 October 17, 2020
 
