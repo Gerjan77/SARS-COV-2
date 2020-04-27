@@ -57,12 +57,15 @@ OpenJDK 1.8.0.25
 
 https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/microsoft_dist_openjdk_1.8.0.25.zip
 
-extract and move to ~/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
+extract and copy to ~/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
 ```zsh
 mkdir ~/Library/Developer/Xamarin/jdk
 mkdir ~/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
-sudo cp -R ~/Downloads/microsoft_dist_openjdk_1.8.0.25 ~/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
+sudo cp -R ~/Downloads/microsoft_dist_openjdk_1.8.0.25 ~/Library/Developer/Xamarin/jdk/
+ls ~/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
 ```
+
+
 
 Xamarin Profiler 1.6.13 October 17, 2020
 
