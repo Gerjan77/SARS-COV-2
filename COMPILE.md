@@ -39,23 +39,23 @@ Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Servi
 Run Xamarin Visual Studio 8.5.3.16 Visual Studio -> Check for Updates... 
 Xamarin Visual Studio 8.5.3.16 uses these dependencies:
 
-.NET Core SDK 3.1.200
+.NET Core SDK 3.1.200 March 16, 2020 https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.200-sdk.md
 
-.NET Core Runtime 2.1.16
+.NET Core Runtime 2.1.16 February 18th, 2020 https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.16/2.1.16.md
 
-Mono Framework MDK 6.8.0.123 Unchecked - Don't install.
+(Mono Framework MDK 6.8.0.123 Unchecked - Don't install.)
 
-OpenJDK 1.8.0.25
+OpenJDK 1.8.0.25 https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/openjdk
 
-Visual Studio for Mac 8.5.4.12 Unchecked - Don't install.
+(Visual Studio for Mac 8.5.4.12 Unchecked - Don't install.)
 
-Xamarin Profiler 1.6.13
+Xamarin Profiler 1.6.13 October 17, 2020
 
-Xamarin.Android 10.2.0.100
+Xamarin.Android 10.2.0.100 March 23, 2020 
 
-Xamarin.iOS 13.16.0.13
+Xamarin.iOS 13.16.0.13 April 17, 2020
 
-Xamarin.Mac 6.16.0.13 March 31, 2020
+Xamarin.Mac 6.16.0.13 April 17, 2020
 
 Download them and uncheck all Downloaded updates.
 These are stored by Visual Studio Update in ~/Library/Caches/VisualStudio/8.0/TempDownload/ and should be backed up.
