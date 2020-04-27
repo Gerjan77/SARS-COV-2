@@ -27,38 +27,35 @@ else
 fi
 ```
 
+## install dependencies
+
 Mono Framework MDK 6.6.0.166 December 10, 2019
-
-- download from https://www.mono-project.com/download/vs/ and install MonoFramework-MDK-6.6.0.166.macos10.xamarin.universal.pkg
-
-Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Service Release 3)
-- download from https://visualstudio.microsoft.com/vs/mac/ April 14, 2020 - April 21, 2020
-- download from https://mac.softpedia.com/get/Developer-Tools/Visual-Studio.shtml April 21, 2020 - April 28, 2020
-- open and move to applications
-
-Run Xamarin Visual Studio 8.5.3.16 Visual Studio -> Check for Updates... 
-Xamarin Visual Studio 8.5.3.16 uses these dependencies:
-
-.NET Core SDK 3.1.200 March 16, 2020 https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.2/3.1.200-sdk.md
-
-.NET Core Runtime 2.1.16 February 18th, 2020 https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.16/2.1.16.md
-
-(Mono Framework MDK 6.8.0.123 Unchecked - Don't install.)
-
-OpenJDK 1.8.0.25 https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/openjdk
-
-(Visual Studio for Mac 8.5.4.12 Unchecked - Don't install.)
-
+Xamarin Visual Studio 8.5.3.16 April 14, 2020
+.NET Core SDK 3.1.200 March 16, 2020
+.NET Core Runtime 2.1.16 February 18th, 2020 
+OpenJDK 1.8.0.25
 Xamarin Profiler 1.6.13 October 17, 2020
-
-Xamarin.Android 10.2.0.100 March 23, 2020 
-
+Xamarin.Android 10.2.0.100 March 23, 2020
 Xamarin.iOS 13.16.0.13 April 17, 2020
-
 Xamarin.Mac 6.16.0.13 April 17, 2020
 
-Download them and uncheck all Downloaded updates.
-These are stored by Visual Studio Update in ~/Library/Caches/VisualStudio/8.0/TempDownload/ and should be backed up.
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/MonoFramework-MDK-6.6.0.166.macos10.xamarin.universal.pkg download and install
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/visualstudioformac-8.5.3.16.dmg
+open and move to applications
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/dotnet-sdk-3.1.200-osx-x64.pkg
+download and install
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/dotnet-runtime-2.1.16-osx-x64.pkg
+download and install
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/microsoft_dist_openjdk_1.8.0.25.zip
+download and install
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/profiler-mac-1.6.13-11.pkg
+download and install
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/xamarin.android-10.2.0.100.pkg
+download and install
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/xamarin.ios-13.16.0.13.pkg
+download and install
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/xamarin.mac-6.16.0.13.pkg
+download and install
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
