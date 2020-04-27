@@ -10,10 +10,8 @@ Dependencies will be defined by version and downloadable or included in this rep
 MacOS 10.15.4 Supplemental Update 19E287 April 8, 2020 (clean install)
 
 Xcode 11.4.1 11E503a April 15, 2020
-  - go to https://developer.apple.com/download/release/ and login as developer
-  - download Xcode_11.4.1.xip
-  - install
-  - restart
+  - go to https://developer.apple.com/download/more/ and login as developer
+  - download Xcode_11.4.1.xip, move to applications and install
 
 Command Line Tools for Xcode 11.4.1 April 15, 2020
 
