@@ -29,7 +29,7 @@ Share the log with your doctor/physician if you are infected/ tested positive. H
 
 ## Digital security: 
 
-Don't change README.md name or contents. No Google location services, no code obfuscation, no cryptography, no chat window, no internet. The log is stored as system file on your platform. The log's storage location and name is randomized.
+Don't change README.md name or contents. No Google location services, no code obfuscation, no cryptography, no chat window, no internet. The log is stored as system file on your platform. The log's storage location and name is randomized. Installer files from app stores can be compared to a compiled app by CRC check and byte by byte.
 
 ## Timestamp:
 
