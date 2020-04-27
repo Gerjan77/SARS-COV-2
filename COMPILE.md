@@ -75,9 +75,14 @@ Press [Download ZIP]
 ## Tag commits after you’ve moved past them
 
 ```zsh
+# download all
 git clone https://github.com/Gerjan77/SARS-COV-2 ~/SARS-COV-2
+cd SARS-COV-2
 # tag initial commit
 git tag -a v0.0 -m "Initial Commit." 980bc6e
+# show commits
+git log --pretty=oneline
+# upload tag
 git push origin v0.0
 ```
 
