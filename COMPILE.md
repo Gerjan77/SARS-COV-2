@@ -30,6 +30,8 @@ fi
 ## install dependencies
 
 Mono Framework MDK 6.6.0.166 December 10, 2019
+https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/MonoFramework-MDK-6.6.0.166.macos10.xamarin.universal.pkg 
+download and install
 
 Xamarin Visual Studio 8.5.3.16 April 14, 2020
 
@@ -47,9 +49,6 @@ Xamarin.iOS 13.16.0.13 April 17, 2020
 
 Xamarin.Mac 6.16.0.13 April 17, 2020
 
-https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/MonoFramework-MDK-6.6.0.166.macos10.xamarin.universal.pkg 
-
-download and install
 
 https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/visualstudioformac-8.5.3.16.dmg
 
