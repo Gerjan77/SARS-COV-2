@@ -15,6 +15,16 @@ Xcode 11.4.1 11E503a April 15, 2020
 
 Command Line Tools for Xcode 11.4.1 April 15, 2020
 
+- go to https://developer.apple.com/download/more/ and login as developer
+- download Command_Line_Tools_for_Xcode_11.4.1.dmg, open and install
+- Versioncheck in the Terminal
+```bash if pkgutil --pkgs=com.apple.pkg.CLTools_Executables >/dev/null; then
+    echo CommandLineTools: $(pkgutil --pkg-info=com.apple.pkg.CLTools_Executables | awk '/version:/ {print $2}')
+else
+    echo CommandLineTools: not installed
+fi
+```
+
 Xamarin Visual Studio 8.5.3.16 April 14, 2020 (= Visual Studio for Mac 8.5 Service Release 3)
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
