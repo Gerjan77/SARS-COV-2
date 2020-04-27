@@ -1,3 +1,7 @@
+# Timestamp:
+
+April 26th 2020 Sunday 12:45h UTC Worldwide Confirmed Infections 2,9M Recovered 823K Deaths 203K
+
 # Compile
 
 The principle of compilability reaches further than 'open source'. Any software tester is able to compile the open source software just as efficient as the developer(s).
