@@ -1,5 +1,5 @@
 # SARS-COV-2
-Compilable app, cross-platform for smartphones made from 2015. 
+Compilable app, cross-platform for smartphones made from 2017. 
 
 ## Demands:
 
@@ -7,11 +7,11 @@ All project files included, license files included.
 
 Compilable on Xamarin Visual Studio 8.5.3.0 for iMac. 
 
-Supports Android 2015-2020
+Supports Android 2017-2020
 
-Supports iOS 2015-2020
+Supports iOS 2017-2020
 
-Supports Windows App 2015-2020
+Supports Windows App 2017-2020
 
 Run as service.
 
