@@ -48,7 +48,7 @@ Example: Sunday April 26th 2020 12:45h UTC
 
 ### Testing hardware
 
-*Available hardware* with a kernel *timestamp* after Thursday Januari 1st 2015 00:00h UTC and before Sunday April 26th 2020 12:45h UTC with simcard, GPS and bluetooth.
+*Available hardware* with a kernel *timestamp* after Sunday Januari 1st 2017 00:00h UTC and before Sunday April 26th 2020 12:45h UTC with simcard, GPS and bluetooth.
 
 ### Compiling platform
 
@@ -68,11 +68,19 @@ Hardware with Operating System MacOS 10.15.4 Supplemental Update 19E287, and wit
 | Xamarin.Mac 6.16.0.13                         | 
 |                                               | 
 
+### units
+
+Imagine a square on the smartphone's display. The size of the square is the minimum of two numbers: 1/100 of the display's width and 1/100 of the display's height. A unit is the length of one vertice. It can be expressed in meter, vertical pixels, etc. Example: for a 62 mm x 104 mm display, the unit is 0.62 mm
+
 ### IMEI string
 
 Commonly, opening the phone's dialler and typing `*#06#` will display its MEID or IMEI/SV.
 Examples: IMEI 49-015420-323751-8 IMEI 357443089796941 IMEI/SV 4756794324562958 IMEI/SV 35-367543-945124-72 MEID a3f804c46de332 MEID a3-f8-04-c4-6d-e3-32
-Characters other than 0, 1, 2, 3, 4, 5, 6 , 7, 8, 9, a, b, c , d, e, f, A, B, C, D, E, F are deleted. Spaces are added to create a string of length 16. This is the IMEI string.
+Characters other than 0, 1, 2, 3, 4, 5, 6 , 7, 8, 9, a, b, c , d, e, f, A, B, C, D, E, F are deleted. Spaces are added to create a string of length 16. This is the IMEI string. To display this the font "Calibri" black on white is used and the height of the 0 is at least 3.2 *units*.
+
+### scrollbutton size
+
+The scrollbutton size is 16 *units*
 
 ### Tasknumber
 
@@ -90,7 +98,7 @@ T3 - show the GPS location
 
 T4 - connect automatically via bluetooth to another platform running the same app. receive "Length 16d char "
 
-T5 - show a down scroll button. This button reacts to pressing it, by moving all displayed textlabels down.
+T5 - show a down scroll button, This button reacts to pressing it, by moving all displayed textlabels down.
 
 ### App functionality
 
