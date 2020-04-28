@@ -9,13 +9,13 @@ are defined terms in this file. This file's name is DEFINITIONS.md
 A string of ASCII 0-127 characters. The string length is between 28 and 42. 
 It repesents a timestamp with a maximum error of exactitude of 60 seconds.
 Concatenated from 6 substrings and separated by spaces as follows:
-Month **space** Day1 **space** Year **space** Day2 **space** Time **space** Timezone
+Day1 **space** Month **space** Year **space** Day2 **space** Time **space** Timezone
+Day1: 6-9 characters Day of the week, can be Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
 Month: 3-9 characters Month can be Januari, Februari, March, April, May, June, July, August, September, October, November, December.
-Day1: 3-4 characters Day of the month ending in an appropriate suffix, can be 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 
+Day2: 3-4 characters Day of the month ending in an appropriate suffix, can be 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 
 9th, 10th, 11nd, 12th, 13th, 14th, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd, 23rd, 24th, 25th, 26th, 
 27th,  28th, 29th, 30th, 31st. 
 Year: 4 characters four character representation of a number 0000-9999
-Day2: 6-9 characters Day of the week, can be Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
 Time: 6 characters Two character representation of the hour 00-23 followed by : 
 followed by two character representation of the minute 00-59 followed by h
 Timezone: 1-5 characters abbreviation for the timezone.Can be A, ACDT, ACST,	ACT, ACWST, ADT, AEDT, AEST, AET,	AFT, AKDT, 
@@ -30,15 +30,15 @@ PYT, Q,	QYZT,	R,	RET,	ROTT,	S,	SAKT,	SAMT,	SAST,		SBT,		SCT,	SGT,		SRET,	SRT,	SS
 TMT,	TOST,	TOT,	TRT,		TVT,	U,	ULAST,		ULAT,	UTC,	UYST,	UYT,	UZT,	V,	VET,		VLAST,	VLAT,	VOST,	VUT,		W,	WAKT,	WARST,	WAST,
 WAT,	WEST,			WET,	WFT,	WGST,		WGT,	WIB,	WIT,		WITA,		WST,	WT,		X,	Y,	YAKST,	YAKT,	YAPT,	YEKST,	YEKT,	Z
  
-Example: April 26th 2020 Sunday 12:45h UTC
+Example: Sunday April 26th 2020 12:45h UTC
 
 ### Available hardware
 
-| Make and type     | Kernel *timestamp*                 | Operating System  |
-| ----------------- |:----------------------------------:| -----------------:|
-| Apple iPhone 5    |                                    |                   |
-| Sony Xperia G3121 | May 11th 2019 Saturday 01:14 JST   |     Android 8.0.0 |
-| Asus Zenpad C7.0  |                                    |                   |
+| Make and type and model     | Kernel *timestamp*                 | Operating System  |
+| --------------------------- |:----------------------------------:| -----------------:|
+| Apple iPhone 5              |                                    |                   |
+| Sony Xperia G3121           | Saturday May 11th 2019 01:14h JST  |     Android 8.0.0 |
+| Asus Zenpad C7.0 P01Z       | Monday April 10th 2017 18:49h CST  |     Android 5.0.2 |
 
 ### Testing hardware
 
