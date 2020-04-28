@@ -10,14 +10,20 @@ A string of ASCII 0-127 characters. The string length is between 28 and 42.
 It repesents a timestamp with a maximum error of exactitude of 60 seconds.
 Concatenated from 6 substrings and separated by spaces as follows:
 Day1 **space** Month **space** Year **space** Day2 **space** Time **space** Timezone
+
 Day1: 6-9 characters Day of the week, can be Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+
 Month: 3-9 characters Month can be Januari, Februari, March, April, May, June, July, August, September, October, November, December.
+
 Day2: 3-4 characters Day of the month ending in an appropriate suffix, can be 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 
 9th, 10th, 11nd, 12th, 13th, 14th, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd, 23rd, 24th, 25th, 26th, 
 27th,  28th, 29th, 30th, 31st. 
+
 Year: 4 characters four character representation of a number 0000-9999
+
 Time: 6 characters Two character representation of the hour 00-23 followed by : 
 followed by two character representation of the minute 00-59 followed by h
+
 Timezone: 1-5 characters abbreviation for the timezone.Can be A, ACDT, ACST,	ACT, ACWST, ADT, AEDT, AEST, AET,	AFT, AKDT, 
 AKST, ALMT, AMST, AMT, ANAST, ANAT, AQTT, ART, AST, AT, AWDT, AWST, AZOST, AZOT, AZST, AZT, AoE, B, BNT, BOT, BRST, BRT, 
 BST, BTT, C,	CAST, CAT, CCT,	CDT, CDT, CEST,	CET, CHADT, CHAST, CHOST, CHOT, CHUT, CIDST, CIST, CKT, CLST, CLT, COT, CST,
