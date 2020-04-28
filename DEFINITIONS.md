@@ -2,8 +2,8 @@
 
 ### Defined terms
 
-Words printed in italics, in markdown language seperated by *single asterisks* or _single underscores_, 
-are *defined terms* in this file. This file's name is DEFINITIONS.md
+Words printed in italics, in markdown language seperated by single asterisks or single underscores, 
+are defined terms in this file. This file's name is DEFINITIONS.md
 
 ### Timestamp
 A string of ASCII 0-127 characters. The total of characters is between 20 and 30. 
