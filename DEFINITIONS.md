@@ -42,5 +42,4 @@ Example: Sunday April 26th 2020 12:45h UTC
 
 ### Testing hardware
 
-*Available hardware* with a kernel *timestamp* after Jan 1st 2015 Thursday 00:00h UTC and before April 26th 2020 Sunday 12:45h UTC
-with simcard, GPS and bluetooth.
+*Available hardware* with a kernel *timestamp* after Thursday Januari 1st 2015 00:00h UTC and before Sunday April 26th 2020 12:45h UTC with simcard, GPS and bluetooth.
