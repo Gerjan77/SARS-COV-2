@@ -9,7 +9,7 @@ are defined terms in this file. This file's name is DEFINITIONS.md
 A string of ASCII 0-127 characters. The string length is between 28 and 42. 
 It repesents a timestamp with a maximum error of exactitude of 60 seconds.
 Concatenated from 6 substrings and separated by spaces as follows:
-Day1 **space** Month **space** Year **space** Day2 **space** Time **space** Timezone
+Day1 **space** Month **space** Day2 **space** Year **space** Time **space** Timezone
 
 Day1: 6-9 characters Day of the week, can be Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
 
