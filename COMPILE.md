@@ -8,7 +8,7 @@ The principle of compilability reaches further than 'open source'. Any software 
 As a matter of principle, all third-party software meets the following:
 No software created after April 26th 2020 Sunday 12:45h UTC will be used, except this repository.
 Dependencies will be exactly defined by version and downloadable or included in this repository.
-The compiling platform is fully defined by the dependency version list.
+The *compiling platform* is fully defined by the dependency version list.
 
 ## Upgrade or downgrade to the following software versions
 
