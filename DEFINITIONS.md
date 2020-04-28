@@ -68,6 +68,50 @@ Hardware with Operating System MacOS 10.15.4 Supplemental Update 19E287, and wit
 | Xamarin.Mac 6.16.0.13                         | 
 |                                               | 
 
+# IMEI string
 
+Commonly, opening the phone's dialler and typing `*#06#` will display its MEID or IMEI/SV.
+Examples: IMEI 49-015420-323751-8 IMEI 357443089796941 IMEI/SV 4756794324562958 IMEI/SV 35-367543-945124-72 MEID a3f804c46de332 MEID a3-f8-04-c4-6d-e3-32
+Characters other than 0, 1, 2, 3, 4, 5, 6 , 7, 8, 9, a, b, c , d, e, f, A, B, C, D, E, F are deleted. Spaces are added to create a string of length 16. This is the IMEI string.
 
+# IMEI check
 
+We can check the 15th digit `a` of an IMEI as follows:
+    
+    IMEI 	              4 	9 	0 	1 	5 	4 	2 	0 	3 	2 	3 	7 	5 	1 	a
+    Double every other 	4 	18 	0 	2 	5 	8 	2 	0 	3 	4 	3 	14 	5 	2 	a
+    Sum digits 	        4 + (1 + 8) + 0 + 2 + 5 + 8 + 2 + 0 + 3 + 4 + 3 + (1 + 4) + 5 + 2 + a 
+                        = 52 + a
+    To make the sum divisible by 10, the sum is increased to 60
+                        O = 8
+
+### debug App functionality
+
+A debug app is fully functional if it performs the following tasks:
+T1 - have an App startup button named 'SARS-COV-2'
+T2 - display the IMEI string
+T3 - show the GPS location
+T4 - connect automatically via bluetooth to another platform running the same app. receive "Length 16d char "
+T5 - show a down scroll button. This button reacts to pressing it, by moving all displayed textlabels down.
+
+### App functionality
+
+An app is fully functional if it performs the following tasks:
+T6 - Don't log the IMEI number of another GSM running this app, if the distance is more than 1,00 meter for 400 seconds.
+T7 - Log the IMEI number of another GSM running this app, if the distance is less than 0,75 meter for 300 seconds. 
+T8 - Stay close to another GSM running this app, the distance is less than 0,75 meter.  Both press the startup button. Your log is visually and uneditable displayed on the other GSM. The other's log is displayed on your app.
+T9 - The log is stored as system file on your platform. The log's storage location and name is randomized. 
+T10 - Compare an installation file byte-for-byte with the installer file from your app store. They match exactly.
+
+### Version
+
+The app version shows what it can do 
+Va.b.c.d  
+
+a : the group of testing hardware. a = 0 refers to the current *testing hardware* and can only increase if more hardware is added. 
+
+b : All tasknumbers lower than b or equal to b are tested 'succes' on all *testing hardware* 
+
+c : sequential number for further specified reasons to upgrade 
+
+d : individual number for the developer to separate his or her sequential debug apps
