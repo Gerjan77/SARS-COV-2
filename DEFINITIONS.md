@@ -40,11 +40,11 @@ Example: Sunday April 26th 2020 12:45h UTC
 
 ### Available hardware
 
-| Make and type and model     | Kernel *timestamp*                 | Operating System  |
-| --------------------------- |:----------------------------------:| -----------------:|
-| Apple iPhone 5              |                                    |                   |
-| Sony Xperia G3121           | Saturday May 11th 2019 01:14h JST  |     Android 8.0.0 |
-| Asus Zenpad C7.0 P01Z       | Monday April 10th 2017 18:49h CST  |     Android 5.0.2 |
+| Make and type and model     | Kernel *timestamp*                        | Operating System  |
+| --------------------------- |:-----------------------------------------:| -----------------:|
+| Apple iPhone 5c             | Wednesday September 9th 2015 18:33h PDT   |        iOs 10.3.3 |
+| Sony Xperia G3121           | Saturday May 11th 2019 01:14h JST         |     Android 8.0.0 |
+| Asus Zenpad C7.0 P01Z       | Monday April 10th 2017 18:49h CST         |     Android 5.0.2 |
 
 ### Testing hardware
 
