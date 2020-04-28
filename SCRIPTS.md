@@ -1,7 +1,7 @@
 ### Scripts
 
 
-Tag commits after you’ve moved past them
+Tag commits after you’ve moved past them. Requires iMac terminal and an installed git package.
 
 ```zsh
 # download all
@@ -16,7 +16,7 @@ git log --pretty=oneline
 git push origin v0.0
 ```
 
-Find a file called xamarin.android-10.2.0.100.pkg
+Find a file called 'xamarin.android-10.2.0.100.pkg'. Requires an iMac terminal.
 
 ```zsh
 # list all files in file-list.txt
