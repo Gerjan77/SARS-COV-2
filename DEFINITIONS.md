@@ -49,3 +49,25 @@ Example: Sunday April 26th 2020 12:45h UTC
 ### Testing hardware
 
 *Available hardware* with a kernel *timestamp* after Thursday Januari 1st 2015 00:00h UTC and before Sunday April 26th 2020 12:45h UTC with simcard, GPS and bluetooth.
+
+### Compiling platform
+
+Hardware with Operating System MacOS 10.15.4 Supplemental Update 19E287, and with the following third party software installed:
+| Third party software                          | 
+| --------------------------------------------- |
+| Xcode 11.4.1                                  | 
+| Command Line Tools for Xcode 11.4.1           | 
+| Mono Framework MDK 6.6.0.166                  | 
+| Xamarin Visual Studio 8.5.3.16                |                          
+| .NET Core SDK 3.1.200                         | 
+| .NET Core Runtime 2.1.16                      | 
+| OpenJDK 1.8.0.25                              | 
+| Xamarin Profiler 1.6.13                       | 
+| Xamarin.Android 10.2.0.100                    | 
+| Xamarin.iOS 13.16.0.13                        | 
+| Xamarin.Mac 6.16.0.13                         | 
+|                                               | 
+
+
+
+
