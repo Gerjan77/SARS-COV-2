@@ -133,7 +133,7 @@ Select Tools:
     SDK Patch Applier v4                                  1 MB
     
 The Empty projectfile (SARS-COV-2 v0.0.2.0 Empty Project) is created in Visual Studio, File -> New Solution.
-The 'New Project' window lefthand pane: Multiplatform -> App. The 'New Project' window righthand pane: Xamarin.Forms -> Blank Forms App, select C#. [Next]. App name: sars-cov-2 Organisation: com.goodjobunit [Next] [Next]
+The 'New Project' window lefthand pane: Multiplatform -> App. The 'New Project' window righthand pane: Xamarin.Forms -> Shell Forms App, select C#. [Next]. App name: sarscov2 Organisation: com.goodjobunit [Next] [Next] Now change App in Xamarin.Forms.Application.
 
 Nuget Packages used in the projectfile:
 
