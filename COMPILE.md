@@ -103,8 +103,14 @@ Select Platforms:
 
     Android 9.0 - Pie     API 28 >
         Android SDK Platform 28                Version 6  72 MB
+    Android 8.0 - Oreo    API 26 >
+        Android SDK Platform 26                Version 2  60 MB
     Android 7.1 - Nougat  API 25 >
         Android SDK Platform 25                Version 3  81 MB
+    Android 7.0 - Nougat  API 24 >
+        Android SDK Platform 25                Version 2  78 MB
+    Android 5.0 - Nougat  API 21 >
+        Android SDK Platform 21                Version 2  62 MB
         
 Choose Emulators 
     
