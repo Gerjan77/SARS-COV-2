@@ -132,6 +132,9 @@ Select Tools:
     Android Emulator 29.3.0                               317 MB
     SDK Patch Applier v4                                  1 MB
     
+The Empty projectfile (SARS-COV-2 v0.0.2.0 Empty Project) is created in Visual Studio, File -> New Solution.
+The 'New Project' window lefthand pane: Multiplatform -> App. The 'New Project' window righthand pane: Xamarin.Forms -> Blank Forms App, select C#. [Next]. App name: sars-cov-2 Organisation: com.goodjobunit [Next] [Next]
+
 Nuget Packages used in the projectfile:
 
     Xamarin.Essentials 1.3.1
