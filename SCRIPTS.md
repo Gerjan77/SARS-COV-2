@@ -1,11 +1,20 @@
 ### Scripts
 
+Download all from github
+
 ```zsh
 cd ~/Projects
 # download all
 git clone https://github.com/Gerjan77/SARS-COV-2 ~/Projects/sarscov2
+```
+
+Download changes / Upload changes
+```zsh
 # navigate into the github reposition
-cd sarscov2
+cd ~/Projects/sarscov2
+# download changes
+git pull
+
 # propose changes
 git add *
 # commit changes
