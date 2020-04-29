@@ -97,6 +97,25 @@ https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/xamarin.mac-6.16.0
 
 download and install
 
+An automatic update when creating an empty project installs the following SDK Tools from SKK Manager:
+
+SDK Patch Applier v4               1 MB
+Android Emulator 29.3.0            317 MB
+
+Android SDK Build Tools
+
+    Android SDK Build-Tools 25.0.3     48 MB
+    Android SDK Build-Tools 29.0.2     38 MB
+
+
+Android SDK Platform-Tools 29.0.5  7 MB     
+
+Android SDK Tools:
+
+    Android SDK Tools 25.2.5           191 MB
+    Android SDK Tools 26.1.1           98 MB
+
+
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
 You need an external USB drive and a USB pendrive. Install CloneZilla Live on a USB pendrive. Boot your pendrive as UEFI and start CloneZilla Live. Save a restorable image of your harddrive on an external USB drive. 
