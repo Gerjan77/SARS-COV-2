@@ -1,5 +1,18 @@
 ### Scripts
 
+```zsh
+cd ~/Projects
+# download all
+git clone https://github.com/Gerjan77/SARS-COV-2 ~/Projects/sarscov2
+# navigate into the github reposition
+cd sarscov2
+# propose changes
+git add *
+# commit changes
+git commit -m "Commit message"
+# upload changes
+git push origin master
+```
 
 Tag commits after you’ve moved past them. Requires iMac terminal and an installed git package.
 
