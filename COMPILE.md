@@ -97,24 +97,34 @@ https://github.com/Gerjan77/SARS-COV-2/releases/download/v0.0/xamarin.mac-6.16.0
 
 download and install
 
-An automatic update when creating an empty project installs the following SDK Tools from SKK Manager:
+Open Visual Studio, go to Tools -> SDK Manager
 
-SDK Patch Applier v4               1 MB
-Android Emulator 29.3.0            317 MB
+Select Platforms:
 
-Android SDK Build Tools
+    Android 9.0 - Pie     API 28 >
+        Android SDK Platform 28                Version 6  72 MB
+    Android 7.1 - Nougat  API 25 >
+        Android SDK Platform 25                Version 3  81 MB
+        
+Choose Emulators 
+    
+    Android 7.1 - Nougat  API 25 >
+        Google APIs Intel x86 Atom_64 System Image        1 GB
+        Google APIs ARM EABI v7a System Image             879 MB
+Select Tools:
 
-    Android SDK Build-Tools 25.0.3     48 MB
-    Android SDK Build-Tools 29.0.2     38 MB
+    Android SDK Tools >
+        Android SDK Tools 26.1.1                          98 MB
+        Android SDK Tools 25.2.5                          191 MB
 
+    Android SDK Platform-Tools 29.0.5                     7 MB     
 
-Android SDK Platform-Tools 29.0.5  7 MB     
+    Android SDK Build Tools >
+        Android SDK Build-Tools 29.0.2                    38 MB
+        Android SDK Build-Tools 25.0.3                    48 MB
 
-Android SDK Tools:
-
-    Android SDK Tools 25.2.5           191 MB
-    Android SDK Tools 26.1.1           98 MB
-
+    Android Emulator 29.3.0                               317 MB
+    SDK Patch Applier v4                                  1 MB
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
