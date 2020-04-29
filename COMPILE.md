@@ -125,6 +125,11 @@ Select Tools:
 
     Android Emulator 29.3.0                               317 MB
     SDK Patch Applier v4                                  1 MB
+    
+Nuget Packages used in the projectfile:
+
+    Xamarin.Essentials 1.3.1
+    Xamarin.Forms 4.4.0.991265
 
 ## Become a Software tester now: Save a restorable image of your harddrive on an external USB drive using CloneZilla Live
 
