@@ -5,6 +5,53 @@
 Words printed in italics, in markdown language seperated by single asterisks or single underscores, 
 are defined terms in this file. This file's name is DEFINITIONS.md
 
+## Medical terms
+
+### R0h
+
+Reproductive number of novel coronavirus. The number of Infections caused by a positive tested homo sapiens (h) before tested positive on the corresponding virus.
+
+### Contact Class
+
+Contact Class is a measure of physical contact between two individuals. The class aims to guarantee a distance between two individials for a set period of time. The class is described in SI units. Physical Barriers between two individuals are irrelevant for measuring Contact Class. Example: Contact Class A.
+
+|Contact Class|Minimum Distance(m)|Minimum Period of time(s)|
+|-------------|:------------------|:------------------------|
+| A           | 0,75              | 300                     |
+| B           | 1,00              | 300                     |
+| C           | 1,25              | 300                     |
+| D           | 1,50              | 300                     |
+| E           | 1,75              | 300                     |
+| F           | 2,00              | 300                     |
+| G           | 2,25              | 300                     |
+| H           | 2,50              | 300                     |
+| I           | 2,75              | 300                     |
+| J           | 3,00              | 300                     |
+| K           | 3,25              | 300                     |
+| L           | 3,50              | 300                     |
+| M           | 3,75              | 300                     |
+| N           | 4,00              | 300                     |
+| O           | 4,25              | 300                     |
+| P           | 4,50              | 300                     |
+| Q           | 4,75              | 300                     |
+| R           | 5,00              | 300                     |
+| S           | 5,25              | 300                     |
+| T           | 5,50              | 300                     |
+| U           | 5,75              | 300                     |
+| V           | 6,00              | 300                     |
+| W           | 6,25              | 300                     |
+| X           | 6,50              | 300                     |
+| Y           | 6,75              | 300                     |
+| Z           | 7,00              | 300                     |
+
+### Sneeze
+
+A sneeze, or sternutation, is a semi-autonomous, convulsive expulsion of air from the lungs through the nose and mouth, usually caused by foreign particles irritating the nasal mucosa. A sneeze expels air forcibly from the mouth and nose in an explosive, spasmodic involuntary action resulting chiefly from irritation of the nasal mucous membrane. This action allows for mucus to escape through the nasal cavity. Sneezing is possibly linked to sudden exposure to bright light, sudden change (fall) in temperature, breeze of cold air, a particularly full stomach, exposure to allergies, or viral infection. Because sneezes can spread disease through infectious aerosol droplets, it is recommended to cover one's mouth and nose with the forearm, the inside of the elbow, a tissue or a handkerchief while sneezing.
+
+The function of sneezing is to expel mucus containing foreign particles or irritants and cleanse the nasal cavity. During a sneeze, the soft palate and palatine uvula depress while the back of the tongue elevates to partially close the passage to the mouth so that air ejected from the lungs may be expelled through the nose. Because the closing of the mouth is partial, a considerable amount of this air is usually also expelled from the mouth. The force and extent of the expulsion of the air through the nose varies. 
+
+## Technical terms
+
 ### Timestamp
 A string of ASCII 0-127 characters. The string length is between 28 and 42. 
 It repesents a timestamp with a maximum error of exactitude of 60 seconds.
