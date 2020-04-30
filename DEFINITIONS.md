@@ -164,7 +164,7 @@ T5 - show a down scroll button, This button reacts to pressing it, by moving all
 
 An app is fully functional if it performs the following tasks:
 
-T6 - Don't log the *IMEI string* of another GSM running this app, if the distance is more than 1,00 meter for 400 seconds.
+T6 - Don't log the *IMEI string* of another GSM running this app, if the distance is more than 1,00 meter for 300 seconds.
 
 T7 - Log the *IMEI string* of another GSM running this app, if the distance is less than 0,75 meter for 300 seconds. 
 
