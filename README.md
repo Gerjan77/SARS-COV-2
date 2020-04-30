@@ -1,5 +1,5 @@
 # SARS-COV-2
-Compilable app, cross-platform for smartphones made from 2017. 
+Compilable app, cross-platform for smartphones made from 2017. It aims to provide data to doctors and physicans to aid contact research. It aims to provide data to help estimate R0 in your specific environment.
 
 ## Demands:
 
