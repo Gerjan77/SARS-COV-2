@@ -20,7 +20,7 @@ Using bluetooth is allowed.
 Using location service is allowed. 
 
 Log the IMEI number of another GSM running this app, if the distance is less than 0,75 meter for 300 seconds.
-Don't log the IMEI number of another GSM running this app, if the distance is more than 1,00 meter for 400 seconds.
+Don't log the IMEI number of another GSM running this app, if the distance is more than 1,00 meter for 300 seconds.
 
 ## App Startup button:
 
