@@ -7,7 +7,7 @@ Describe your testing platforms, App *version*, Tested functionality and Result 
 ### Tested Platforms (at least two)
 
 | Make and type and model     | Kernel *timestamp*                        | Operating System  |
-| ---------------------------- |:-------------------------------------:| -----------------:|
+|-----------------------------|:-----------------------------------------:| -----------------:|
 | Apple iPhone 5c             | Thursday Jun 15th 2017 18:33h PDT         |        iOS 10.3.3 |
 | Sony Xperia G3121           | Saturday May 11th 2019 01:14h JST         |     Android 8.0.0 |
 | Asus Zenpad C7.0 P01Z       | Monday April 10th 2017 18:49h CST         |     Android 5.0.2 |
@@ -18,18 +18,18 @@ sars-cov-2 v0.0.2
 
 ### Result
 
-| (Debug) Functionality       | OS versions                            |*timestamp*                 |        Result |
-| --------------------------|:-----------------------------:|---------------------:|--------------:|
-| Have a startup button |         | Thursday May 28th 2020 17:30h CEST |         |
-| Display *IMEI string* |         | Monday June 29th 2020 17:30h CEST |         |
-| Show GPS location |         | Tuesday July 28th 2020 17:30h CEST |         |
-| Bluetooth Receive |         | Wednesday October 28th 2020 17:30h CEST |         |
-| Down scroll button |         | Monday November 30th 2020 17:30h CEST |         |
-| Don't log if the distance is more ... |         | Monday December 28th 2020 17:30h CEST |         |
-| Log if the distance is less ... |         | Thursday Januari 28th 2021 17:30h CEST |         |
-| Exchange logs |         | Monday March 29th 2021 17:30h CEST |         |
-| The log is stored as system file |         | Wednesday April 28th 2021 17:30h CEST |         |
-| Compare an installation file|         | Friday May 28th 2021 17:30h CEST |           |
+| (Debug) Functionality       | OS versions    |*timestamp*                              |        Result |
+| ----------------------------|:--------------:|----------------------------------------:|--------------:|
+| Have a startup button       |                | Thursday May 28th 2020 17:30h CEST      |               |
+| Display *IMEI string*       |                | Monday June 29th 2020 17:30h CEST       |               |
+| Show GPS location           |                | Tuesday July 28th 2020 17:30h CEST      |               |
+| Bluetooth Receive           |                | Wednesday October 28th 2020 17:30h CEST |               |
+| Down scroll button          |                | Monday November 30th 2020 17:30h CEST   |               |
+| Don't log if the distance...|                | Monday December 28th 2020 17:30h CEST   |               |
+| Log if the distance is ...  |                | Thursday Januari 28th 2021 17:30h CEST  |               |
+| Exchange logs               |                | Monday March 29th 2021 17:30h CEST      |               |
+| The log is system file      |                | Wednesday April 28th 2021 17:30h CEST   |               |
+| Compare an installation file|                | Friday May 28th 2021 17:30h CEST        |               |
 
 ### Planning
 
