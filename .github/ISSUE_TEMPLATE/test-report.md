@@ -23,20 +23,25 @@ Describe your testing platforms, App *version*, Tested functionality and Result 
 
 sars-cov-2 v0.x.0
 
+### App *version*
+
+sars-cov-2 v0.0.2
+
 ### Result
 
-| (Debug) Functionality       | OS versions                            |*timestamp*                 |        Result |
-| --------------------------|:-----------------------------:|---------------------:|--------------:|
-| Have a startup button |         |    |         |
-| Display *IMEI string* |         |    |         |
-| Show GPS location |         |    |         |
-| Bluetooth Receive |         |    |         |
-| Down scroll button |         |    |         |
-| Don't log if the distance is more ... |         |    |         |
-| Log if the distance is less ... |         |    |         |
-| Exchange logs |         |    |         |
-| The log is stored as system file |         |    |         |
-| Compare an installation file|         |    |           |
+| (Debug) Functionality       | OS versions    |*timestamp*                              |        Result |
+| ----------------------------|:--------------:|----------------------------------------:|--------------:|
+| Have a startup button       |                | Thursday May 28th 2020 17:30h CEST      |               |
+| Display *IMEI string*       |                | Monday June 29th 2020 17:30h CEST       |               |
+| Show GPS location           |                | Tuesday July 28th 2020 17:30h CEST      |               |
+| Bluetooth Receive           |                | Wednesday October 28th 2020 17:30h CEST |               |
+| Down scroll button          |                | Monday November 30th 2020 17:30h CEST   |               |
+| Don't log if the distance...|                | Monday December 28th 2020 17:30h CEST   |               |
+| Log if the distance is ...  |                | Thursday Januari 28th 2021 17:30h CEST  |               |
+| Exchange logs               |                | Monday March 29th 2021 17:30h CEST      |               |
+| The log is system file      |                | Wednesday April 28th 2021 17:30h CEST   |               |
+| Compare an installation file|                | Friday May 28th 2021 17:30h CEST        |               |
+
 
 ### Planning
 
