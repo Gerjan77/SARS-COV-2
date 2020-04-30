@@ -9,7 +9,7 @@ assignees: ''
 
 ### Test Report
 
-Describe your testing platforms, App *version*, Tested functionality and Result (fail/success/not done).
+Describe your testing platforms, App *version*, Tested functionality and Result (fail/success/not done). See in ' Planning ' what to test. 
 
 ### Tested Platforms (at least two)
 
@@ -22,10 +22,6 @@ Describe your testing platforms, App *version*, Tested functionality and Result 
 ### App *version*
 
 sars-cov-2 v0.x.0
-
-### App *version*
-
-sars-cov-2 v0.0.2
 
 ### Result
 
