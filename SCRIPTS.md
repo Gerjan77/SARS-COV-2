@@ -1,9 +1,24 @@
 ### Scripts
 
-Download all from github
+Update all from github
 
 ```zsh
-cd ~/Projects
+cd ~/Projects/sarscov2
+# initialise repo
+git init
+# connect to github
+git remote add origin https://github.com/Gerjan77/SARS-COV-2.git
+# fetch the latest history from the server
+git fetch origin
+# update all
+git reset --hard origin/master
+```
+
+Clone all from github
+
+```zsh
+# initialise repo
+git init
 # download all
 git clone https://github.com/Gerjan77/SARS-COV-2 ~/Projects/sarscov2
 ```
