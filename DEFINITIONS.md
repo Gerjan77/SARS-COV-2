@@ -168,7 +168,7 @@ T6 - Don't log the *IMEI string* of another GSM running this app, if the distanc
 
 T7 - Log the *IMEI string* of another GSM running this app, if the distance is less than 0,75 meter for 300 seconds. 
 
-T8 - Stay close to another GSM running this app, the distance is less than 0,75 meter.  Both press the startup button. Your log is visually and uneditable displayed on the other GSM. The other's log is displayed on your app.
+T8 - Stay close to another GSM running this app.  Both press the startup button. Your log is visually and uneditable displayed on the other GSM. The other's log is displayed on your app.
 
 T9 - The log is stored as system file on your platform. The log's storage location and name is randomized. 
 
