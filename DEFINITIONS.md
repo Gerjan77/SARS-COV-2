@@ -11,11 +11,11 @@ are defined terms in this file. This file's name is DEFINITIONS.md
 
 Reproductive number of novel coronavirus. The number of Infections caused by a positive tested homo sapiens (h) before tested positive on the corresponding virus.
 
-### Contact Class
+### Generalised Contact Class
 
-Contact Class is a measure of physical contact between two individuals. The class aims to guarantee a distance between two individials for a set period of time. The class is described in SI units. Physical Barriers between two individuals are irrelevant for measuring Contact Class. Example: Contact Class A.
+Generalised Contact Class is a measure of physical contact between two individuals or animals. The class aims to guarantee a distance between two subjects for a set period of time. The class is described in SI units. Physical Barriers etc between two subjects are irrelevant for measuring Contact Class. Example: Generalised Contact Class A.
 
-|Contact Class|Minimum Distance(m)|Minimum Period of time(s)|
+|Contact Class|Distance(m)        |Period of time(s)        |
 |-------------|:------------------|:------------------------|
 | A           | 0,75              | 300                     |
 | B           | 1,00              | 300                     |
@@ -43,6 +43,19 @@ Contact Class is a measure of physical contact between two individuals. The clas
 | X           | 6,50              | 300                     |
 | Y           | 6,75              | 300                     |
 | Z           | 7,00              | 300                     |
+
+### Contact Class CC[h|m|a]bpks
+
+Contact Class CC[h|m|a]bpks after knowing the following of two subjects:
+- h They are both homo sapiens
+- m They are both mammals
+- a They are both animals
+- b Barriers were between them
+- p Sexual penetration was done
+- k Kissing was done
+- s Sneezing was done improperly
+
+Example: Two small mammals in a cage are in Contact Class CCms(A). Two humans sitting on a large bench are in Contact Class CCh(E)
 
 ### Sneeze
 
