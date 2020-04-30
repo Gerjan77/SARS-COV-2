@@ -9,7 +9,7 @@ assignees: ''
 
 ### Test Report
 
-Describe your testing platforms, App *version*, Tested functionality and Result (fail/success/not done). See in ' Planning ' what to test. 
+Describe your testing platforms, App *version*, Tested functionality and Result (fail/success/not done). See in ' Planning ' what to test. Describe any funny things you had to do to produce ' success '
 
 ### Tested Platforms (at least two)
 
@@ -37,6 +37,10 @@ sars-cov-2 v0.x.0
 | Exchange logs               |                | Monday March 29th 2021 17:30h CEST      |               |
 | The log is system file      |                | Wednesday April 28th 2021 17:30h CEST   |               |
 | Compare an installation file|                | Friday May 28th 2021 17:30h CEST        |               |
+
+### Issue
+
+I had to do the following funny things to achieve success:
 
 
 ### Planning
