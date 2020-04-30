@@ -17,8 +17,6 @@ git reset --hard origin/master
 Clone all from github
 
 ```zsh
-# initialise repo
-git init
 # download all
 git clone https://github.com/Gerjan77/SARS-COV-2 ~/Projects/sarscov2
 ```
