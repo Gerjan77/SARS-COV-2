@@ -18,13 +18,13 @@
           "/Users/geert-januijtdewilligen/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid90"
+          "monoandroid10.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid90": {
+          "monoandroid10.0": {
             "projectReferences": {
               "/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/sarscov2.csproj": {
                 "projectPath": "/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/sarscov2.csproj"
@@ -34,7 +34,7 @@
         }
       },
       "frameworks": {
-        "monoandroid90": {
+        "monoandroid10.0": {
           "dependencies": {
             "Xamarin.Essentials": {
               "target": "Package",

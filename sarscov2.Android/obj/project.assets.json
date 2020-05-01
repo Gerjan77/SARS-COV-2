@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v9.0": {
+    "MonoAndroid,Version=v10.0": {
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -1927,7 +1927,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v9.0": [
+    "MonoAndroid,Version=v10.0": [
       "Xamarin.Essentials >= 1.3.1",
       "Xamarin.Forms >= 4.4.0.991265",
       "sarscov2 >= 1.0.0"
@@ -1950,13 +1950,13 @@
         "/Users/geert-januijtdewilligen/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid90"
+        "monoandroid10.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid90": {
+        "monoandroid10.0": {
           "projectReferences": {
             "/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/sarscov2.csproj": {
               "projectPath": "/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/sarscov2.csproj"
@@ -1966,7 +1966,7 @@
       }
     },
     "frameworks": {
-      "monoandroid90": {
+      "monoandroid10.0": {
         "dependencies": {
           "Xamarin.Essentials": {
             "target": "Package",

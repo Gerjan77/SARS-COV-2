@@ -14,3 +14,4 @@
 /Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/Debug/netstandard2.0/sarscov2.dll
 /Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/Debug/netstandard2.0/ref/sarscov2.dll
 /Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/Debug/netstandard2.0/sarscov2.pdb
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/Debug/netstandard2.0/sarscov2.csprojAssemblyReference.cache
