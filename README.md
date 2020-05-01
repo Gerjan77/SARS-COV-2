@@ -24,8 +24,8 @@ Don't log the IMEI number of another GSM running this app, if the distance is mo
 
 ## App Startup button:
 
-The button name is SARS-COV-2
-Share the log with your doctor/physician if you are infected/ tested positive. He runs the same app and the both of you press 'SARS-COV-2' simultaniously. Your log is visually and uneditable displayed on your doctor's app. Your doctor's log is displayed on your app.
+The button name is Sars Cov 2
+Share the log with your doctor/physician if you are infected/ tested positive. He runs the same app and the both of you press 'Sars Cov 2' simultaniously. Your log is visually and uneditable displayed on your doctor's app. Your doctor's log is displayed on your app.
 
 ## Digital security: 
 
