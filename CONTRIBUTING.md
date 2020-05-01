@@ -35,7 +35,7 @@ sars-cov-2 v0.0.2
 
 |App *version*        | (Debug) Functionality                        | OS versions                            | Target *timestamp*                 |
 | ------------------- |:--------------------------------------------:| --------------------------------------:|-----------------------------------:|
-|SARS-COV-2 v0.1.0.0  | Have an App startup button named 'SARS-COV-2'|iOS 10.3.3, Android 8.0.0, Android 5.0.2| Thursday May 28th 2020 17:30h CEST |                 
+|SARS-COV-2 v0.1.0.0  | Have an App startup button named 'Sars Cov 2'|iOS 10.3.3, Android 8.0.0, Android 5.0.2| Thursday May 28th 2020 17:30h CEST |                 
 |SARS-COV-2 v0.2.0.0  | Display the *IMEI string*                    |iOS 10.3.3, Android 8.0.0, Android 5.0.2| Monday June 29th 2020 17:30h CEST  |
 |SARS-COV-2 v0.3.0.0  | Show the GPS location                        |iOS 10.3.3, Android 8.0.0, Android 5.0.2| Tuesday July 28th 2020 17:30h CEST  |
 |SARS-COV-2 v0.4.0.0  | Connect automatically via bluetooth to another platform running the same app. receive "Length 16d char "  |iOS 10.3.3, Android 8.0.0, Android 5.0.2| Wednesday October 28th 2020 17:30h CEST |
@@ -46,6 +46,6 @@ sars-cov-2 v0.0.2
 |SARS-COV-2 v0.8.1.0  | Define system file |iOS 10.3.3, Android 8.0.0, Android 5.0.2| Tuesday April 27th 2021 17:30h CEST |
 |SARS-COV-2 v0.9.0.0  | The log is stored as system file on your platform. The log's storage location and name is randomized.     |iOS 10.3.3, Android 8.0.0, Android 5.0.2| Wednesday April 28th 2021 17:30h CEST |
 |SARS-COV-2 v0.10.0.0 | Compare an installation file byte-for-byte with the installer file from your app store. They match exactly.                  |iOS 10.3.3, Android 8.0.0, Android 5.0.2| Friday May 28th 2021 17:30h CEST |
-|SARS-COV-2 v1.1.0.0  | Have an App startup button named 'SARS-COV-2'|iOS 10.3.3, Android 8.0.0, Android 5.0.2, and one more|                                    |
+|SARS-COV-2 v1.1.0.0  | Have an App startup button named 'Sars Cov 2'|iOS 10.3.3, Android 8.0.0, Android 5.0.2, and one more|                                    |
 
 
