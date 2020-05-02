@@ -1,5 +1,26 @@
 ### Scripts
 
+Download changes / Upload changes
+```zsh
+# navigate into the github reposition
+cd ~/Projects/sarscov2
+# fetch the latest history from the server
+git fetch origin
+# update all
+git reset --hard origin/master
+# remove temporary dir
+rm -r ~/Projects/sarscov2/sarscov2.iOS/bin/iPhone/*
+rm -r ~/Projects/sarscov2/sarscov2.iOS/obj/iPhone/*
+rm -r ~/Projects/sarscov2/sarscov2.iOS/bin/iPhoneSimulator/*
+rm -r ~/Projects/sarscov2/sarscov2.iOS/obj/iPhoneSimulator/*
+# propose changes
+git add *
+# commit changes
+git commit -m "Commit message"
+# upload changes
+git push origin master
+```
+
 Update all from github
 
 ```zsh
@@ -19,21 +40,6 @@ Clone all from github
 ```zsh
 # download all
 git clone https://github.com/Gerjan77/SARS-COV-2 ~/Projects/sarscov2
-```
-
-Download changes / Upload changes
-```zsh
-# navigate into the github reposition
-cd ~/Projects/sarscov2
-# remove temporary dir
-rm -r ~/Projects/sarscov2/sarscov2.iOS/bin/iPhone/Debug/device-builds
-rm -r ~/Projects/sarscov2/sarscov2.iOS/obj/iPhone/Debug/device-builds
-# propose changes
-git add *
-# commit changes
-git commit -m "Commit message"
-# upload changes
-git push origin master
 ```
 
 Tag commits after you’ve moved past them. Requires iMac terminal and an installed git package.
