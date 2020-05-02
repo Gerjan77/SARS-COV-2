@@ -275,7 +275,7 @@ Visual Studio for Mac
 
 Set the signing identity and provisioning profile
 
-Tip
+### Tip
 
 If you cannot see your signing identity or the correct provisioning profile, you may need to restart Visual Studio for Mac.
 
