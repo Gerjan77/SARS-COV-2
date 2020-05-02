@@ -25,9 +25,9 @@ Download changes / Upload changes
 ```zsh
 # navigate into the github reposition
 cd ~/Projects/sarscov2
-# download changes
-git pull
-
+# remove temporary dir
+rm -r ~/Projects/sarscov2/sarscov2.iOS/bin/iPhone/Debug/device-builds
+rm -r ~/Projects/sarscov2/sarscov2.iOS/obj/iPhone/Debug/device-builds
 # propose changes
 git add *
 # commit changes
