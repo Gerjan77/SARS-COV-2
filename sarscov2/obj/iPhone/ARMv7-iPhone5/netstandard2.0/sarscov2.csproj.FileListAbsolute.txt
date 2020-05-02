@@ -1,0 +1,14 @@
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/bin/iPhone/ARMv7-iPhone5/netstandard2.0/sarscov2.deps.json
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/bin/iPhone/ARMv7-iPhone5/netstandard2.0/sarscov2.dll
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/bin/iPhone/ARMv7-iPhone5/netstandard2.0/ref/sarscov2.dll
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/App.xaml.g.cs
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/AppShell.xaml.g.cs
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/sarscov2.AssemblyInfoInputs.cache
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/sarscov2.AssemblyInfo.cs
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/XamlC.stamp
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/sarscov2.dll
+/Users/geert-januijtdewilligen/Projects/sarscov2/sarscov2/obj/iPhone/ARMv7-iPhone5/netstandard2.0/ref/sarscov2.dll

@@ -15,6 +15,7 @@ Global
 		Release|iPhoneSimulator = Release|iPhoneSimulator
 		Debug|iPhone = Debug|iPhone
 		Release|iPhone = Release|iPhone
+		ARMv7-iPhone5|iPhone = ARMv7-iPhone5|iPhone
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E0057A4A-1108-442F-9C5E-EC3D2C189949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -29,6 +30,8 @@ Global
 		{E0057A4A-1108-442F-9C5E-EC3D2C189949}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{E0057A4A-1108-442F-9C5E-EC3D2C189949}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{E0057A4A-1108-442F-9C5E-EC3D2C189949}.Release|iPhone.Build.0 = Release|Any CPU
+		{E0057A4A-1108-442F-9C5E-EC3D2C189949}.ARMv7-iPhone5|iPhone.ActiveCfg = ARMv7-iPhone5|iPhone
+		{E0057A4A-1108-442F-9C5E-EC3D2C189949}.ARMv7-iPhone5|iPhone.Build.0 = ARMv7-iPhone5|iPhone
 		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
 		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
 		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
@@ -41,6 +44,8 @@ Global
 		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.Debug|iPhone.Build.0 = Debug|iPhone
 		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.Release|iPhone.ActiveCfg = Release|iPhone
 		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.Release|iPhone.Build.0 = Release|iPhone
+		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.ARMv7-iPhone5|iPhone.ActiveCfg = ARMv7-iPhone5|iPhone
+		{E33C94EB-28BE-412D-A805-56A98B18C3ED}.ARMv7-iPhone5|iPhone.Build.0 = ARMv7-iPhone5|iPhone
 		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -53,6 +58,8 @@ Global
 		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.Release|iPhone.Build.0 = Release|Any CPU
+		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.ARMv7-iPhone5|iPhone.ActiveCfg = ARMv7-iPhone5|iPhone
+		{681CA580-4FE1-4D96-9A15-DDDB09AAA33A}.ARMv7-iPhone5|iPhone.Build.0 = ARMv7-iPhone5|iPhone
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		version = 0.1.0
